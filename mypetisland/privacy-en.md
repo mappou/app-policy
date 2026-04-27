@@ -6,7 +6,7 @@ This Privacy Policy describes how Masanori Uesugi (the "Operator") handles user 
 
 - **Photo Library**: Only photos you explicitly select are loaded into the app. Selected photos are processed on-device and are not transmitted to our servers.
 - **Purchase Information**: We process purchase transaction data and anonymous user identifiers via RevenueCat for in-app purchase fulfillment. Payment details (card numbers, etc.) are handled by Apple and never reach us.
-- **Advertising Data**: We use Google Mobile Ads (AdMob) to deliver ads in free features. Device identifiers, coarse location, and ad-interaction data may be collected by the ad provider. See their privacy policy for details.
+- **Advertising Data**: We use Google Mobile Ads (AdMob) to deliver ads in free features. However, the app is strictly configured to serve ONLY "Non-Personalized Ads". Therefore, we DO NOT collect your device's advertising identifier (IDFA) and DO NOT track you across other apps or websites for advertising purposes.
 
 ## How We Use Information
 
