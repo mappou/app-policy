@@ -1,6 +1,6 @@
-# いつでもペット Privacy Policy
+# いつでもマイペット - ダイナミックアイランドの小さな癒やし Privacy Policy
 
-This Privacy Policy describes how Masanori Uesugi (the "Operator") handles user information in the iOS app "いつでもペット" (the "App"). By using the App, you agree to this Policy.
+This Privacy Policy describes how Masanori Uesugi (the "Operator") handles user information in the iOS app "いつでもマイペット - ダイナミックアイランドの小さな癒やし" (the "App"). By using the App, you agree to this Policy.
 
 ## Information We Collect
 
